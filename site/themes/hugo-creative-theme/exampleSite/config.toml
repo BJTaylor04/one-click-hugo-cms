@@ -105,18 +105,3 @@ googleAnalytics = ""
 	# 	latitude  = "34.007850"
 	# 	longitude = "-118.499305"
 	# 	maps_api_key = ""
-	
-	 [[menu.main]]
-  name = "Home"
-  url  = "/"
-  weight = 0
-
- [[menu.main]]
-  name = "About"
-  url  = "about"
-  weight = 5
-
- [[menu.main]]
-  name = "Blog"
-  url  = "post/"
-  weight = 10
