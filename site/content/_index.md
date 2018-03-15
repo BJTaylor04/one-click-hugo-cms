@@ -1,14 +1,14 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/2018-03-06-schoolst-1st.jpg
+title: 'TRAINS, motherfucker'
+subtitle: You want 'em? We've got 'em!
+image: /img/flying_yankee_edaville.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: What's So Good About Trains?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Don't be a fucking moron, Donna. What are you going to do, drive around in a
+    car like a polluting asshole, or take a safe, efficient train to get to your
+    destination? Trains are the past, present, and future. Get on a train or get
+    the fuck out of the way.
 intro:
   heading: What we offer
   text: >-
